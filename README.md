@@ -4,18 +4,17 @@ KeplerPORTs.py - Illustrate making use of numerous Kepler Planet Occurrence Rate
 Burke, C.J. & Catanzarite, J. 2017, "Planet Detection Metrics: Per-Target Detection Contours for Data Release 25", KSCI-19111-001
 
 Additional recommended background reading
--Earlier Data Release 24 version of detection contour described in Burke et al. 2015, ApJ, 809, 8
+
+-Earlier Data Release 24 version of detection contour
+    * Burke et al. 2015, ApJ, 809, 8
 -Transit injection and recovery tests for the Kepler pipeline
-    Christiansen et al. 2013, ApJS, 207, 35
-    Christiansen et al. 2015, ApJ, 810, 95   (One Year Kepler data)
-    Christiansen et al. 2016, ApJ, 828, 99   (Data Release 24)
-    Christiansen, J. L. 2017, Planet Detection Metrics: Pixel-Level Transit
-            Injection Tests of Pipeline Detection Efficiency
-            for Data Release 25 (KSCI-19110-001)
-    Burke & Catanzarite 2017, Planet Detection Metrics: Per-Target Flux-Level
-            Transit Injection Tests of TPS for Data Release 25 (KSCI-19109-001)
+    * Christiansen et al. 2013, ApJS, 207, 35
+    * Christiansen et al. 2015, ApJ, 810, 95   (One Year Kepler data)
+    * Christiansen et al. 2016, ApJ, 828, 99   (Data Release 24)
+    * Christiansen, J. L. 2017, Planet Detection Metrics: Pixel-Level Transit Injection Tests of Pipeline Detection Efficiency for Data Release 25 (KSCI-19110-001)
+    * Burke & Catanzarite 2017, Planet Detection Metrics: Per-Target Flux-Level Transit Injection Tests of TPS for Data Release 25 (KSCI-19109-001)
 -Kepler Target Noise and Data Quality metrics
-    Burke & Catanzarite 2016, Planet Detection Metrics: Window and One-Sigma Depth Functions for Data Release 25 (KSCI-19101-002)
+    * Burke & Catanzarite 2016, Planet Detection Metrics: Window and One-Sigma Depth Functions for Data Release 25 (KSCI-19101-002)
     
 **Assumptions** - python packages numpy, scipy, matplotlib, astropy, and h5py are available and files 
       detectEffData_alpha12_02272017.h5
