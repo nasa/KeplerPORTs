@@ -33,7 +33,7 @@ KeplerPORTs.py - Illustrate making use of numerous Kepler Planet Occurrence
 
 Notices:
 
-Copyright © 2017 United States Government as represented by the Administrator of the National Aeronautics and Space Administration.  All Rights Reserved.
+Copyright 2017 United States Government as represented by the Administrator of the National Aeronautics and Space Administration.  All Rights Reserved.
 
 NASA acknowledges the SETI Institute’s primary role in authoring and producing the KeplerPORTs (Kepler Planet Occurrence Rate Tools) under Cooperative Agreement Number NNX13AD01A.
 
